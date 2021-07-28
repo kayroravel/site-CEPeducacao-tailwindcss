@@ -1,0 +1,42 @@
+header {
+    border: 1px solid black;
+}
+.cepmenu {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.menu-itens-cep ul{
+    display: flex;
+}
+
+.menu-itens-cep ul li {
+    list-style: none;
+}
+.menu-itens-cep ul li a{
+    padding: 8px;
+    margin: 4px;
+    text-decoration: none;
+}
+
+.botao-alunoOnline {
+    border: 1px solid black;
+}
+
+.botao-EAD{
+    background-color: chartreuse;
+    border: 1px solid black;
+   
+}
+
+
+
+.btn-buscar-top{
+    width: 20px!important;
+    height: 22px;
+    background: url(//www.devmedia.com.br/imagens/2013/buscar_grey.png) no-repeat;
+}
